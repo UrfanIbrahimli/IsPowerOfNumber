@@ -1,0 +1,11 @@
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\bin\Debug\netcoreapp3.1\PowerOfNumber.exe
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\bin\Debug\netcoreapp3.1\PowerOfNumber.deps.json
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\bin\Debug\netcoreapp3.1\PowerOfNumber.runtimeconfig.json
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\bin\Debug\netcoreapp3.1\PowerOfNumber.runtimeconfig.dev.json
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\bin\Debug\netcoreapp3.1\PowerOfNumber.dll
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\bin\Debug\netcoreapp3.1\PowerOfNumber.pdb
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\obj\Debug\netcoreapp3.1\PowerOfNumber.csprojAssemblyReference.cache
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\obj\Debug\netcoreapp3.1\PowerOfNumber.AssemblyInfoInputs.cache
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\obj\Debug\netcoreapp3.1\PowerOfNumber.AssemblyInfo.cs
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\obj\Debug\netcoreapp3.1\PowerOfNumber.dll
+C:\Users\urfan\source\repos\PowerOfNumber\PowerOfNumber\obj\Debug\netcoreapp3.1\PowerOfNumber.pdb
