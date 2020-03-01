@@ -1,0 +1,1 @@
+# IsPowerOfNumber
